@@ -28,7 +28,7 @@ body {
    }
   
    /*webstudio*/
-   .logo:hover {color: var(--title-text-color)}
+   .logo:hover {color: var(--primary-text-color)}
     .acsent:hover{color:var(--accent-text-color)}
  ul {list-style: none;}
 /*навігація сайту*/
@@ -36,6 +36,8 @@ body {
 .site-nav .link{ color: var(--title-text-color)};
 .site-nav .link{ color: var(--title-text-color)};
 
-    
+    /* section1*/
+    .resheniya{ background-color: black;}
+    .button.knopka{var(--accent-text-color)}
 
  
