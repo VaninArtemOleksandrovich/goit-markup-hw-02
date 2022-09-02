@@ -32,7 +32,7 @@ body {
     .acsent:hover{color:var(--accent-text-color)}
  ul {list-style: none;}
 /*навігація сайту*/
-.accent.link{ color:var(--accent-text-color)};
+.accent.link{ color:#2196F3};
 .site-nav .link{ color: var(--title-text-color)};
 .site-nav .link{ color: var(--title-text-color)};
 
