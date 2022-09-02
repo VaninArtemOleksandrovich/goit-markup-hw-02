@@ -28,12 +28,13 @@ body {
    }
   
    /*webstudio*/
-   
-    .acsent { color:#2196F3}
-
+   .logo:hover {color:var --title-text-color: rgba(33, 33, 33, 1);}
+    .acsent:hover{color:var --accent-text-color: #2196F3}
+    /* прибрав точки в списку */
+ ul {list-style: none;}
+/*навігація сайту*/
 .site-nav .link:hover,
-.site-nav .link:focus {
+.site-nav .link:focus{
     color:#212121}
 .accent.link{ color:#2196F3}
- /* прибрав точки в списку */
- ul {list-style: none;}
+ 
