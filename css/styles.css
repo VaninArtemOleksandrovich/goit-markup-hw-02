@@ -37,7 +37,8 @@ body {
 .site-nav .link{ color: var(--title-text-color)};
 
     /* section1*/
-    .resheniya{ background-color: black;}
+    .resheniya{ background-color: black;
+    text-anchor:var(--primary-br-color)}
     .button.knopka{var(--accent-text-color)}
 
  
