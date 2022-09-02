@@ -27,8 +27,12 @@ body {
         letter-spacing: 0.02em;
    }
   
-   
-.site-nav .link{
+   /*webstudio*/
+   .logotip {
+
+   }
+.site-nav .link:hover,
+.site-nav .link:focus {
     color:#212121
 }
 .acsent .link{ color:#2196F3}
