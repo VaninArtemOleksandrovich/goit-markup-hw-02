@@ -1,9 +1,23 @@
-body
-{ background-color: #f5f5f5;
+
+/* основний колір тексту rgba(33, 33, 33, 1) */
+/* другорядний колір тексту rgba(117, 117, 117, 1) */
+/* блакитний акцент #2196F3 */
+/* білий акцент #FFFFFF */
+/*  чорний акцент rgba(0, 0, 0, 1) */
+/* фон кнопки rgba(33, 150, 243, 1) */
+/* адреса в футері rgba(255, 255, 255, 0.6)*/
+
+:root{
+    --primary-text-color: rgba(33, 33, 33, 1);
+    --title-text-color: rgba(33, 33, 33, 1);
+    --accent-text-color: #2196F3 ;
+    --primary-br-color:  #FFFFFF;
+    --title-list-text-color: rgba(117, 117, 117, 1);
+
 }
-text-color: #212121;
-.list
- {list-style: none;}
 
-
+body {
+    background-color: #FFFFFF;
+    color: rgba(33, 33, 33, 1);
+   }
 
