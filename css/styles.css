@@ -28,6 +28,7 @@ body {
    }
    ul {list-style: none;}
    /*webstudio*/
+   .span { color:#2196F3}
    .logo {color: var(--primary-text-color);
    }
    .accentlink{color:  var(--accent-text-color);}
