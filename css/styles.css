@@ -34,8 +34,8 @@ body {
  ul {list-style: none;}
 /*навігація сайту*/
 .accent.link{ color:var(--accent-text-color)}
-.site-nav .link:hover,
-.site-nav .link:focus{
-    color:#212121}
+.site-nav .link{ color: var(--title-text-color)}
+.site-nav .link{ color: var(--title-text-color)}
+    
 
  
