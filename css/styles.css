@@ -29,7 +29,7 @@ body {
   
    /*webstudio*/
    
-    .acsent:hover{color:var(--accent-text-color)}
+    .acsent:hover{color:#2196F3}
  ul {list-style: none;}
 /*навігація сайту*/
 .accent.link{ color:#2196F3};
