@@ -28,14 +28,14 @@ body {
    }
   
    /*webstudio*/
-   .logo:hover {color:var --title-text-color: rgba(33, 33, 33, 1);}
-    .acsent:hover{color:var --accent-text-color: #2196F3}
-    /* прибрав точки в списку */
+   .logo:hover {color: var(--title-text-color)}
+    .acsent:hover{color:var(--accent-text-color)}
  ul {list-style: none;}
 /*навігація сайту*/
-.accent.link{ color:var(--accent-text-color)}
-.site-nav .link{ color: var(--title-text-color)}
-.site-nav .link{ color: var(--title-text-color)}
+.accent.link{ color:var(--accent-text-color)};
+.site-nav .link{ color: var(--title-text-color)};
+.site-nav .link{ color: var(--title-text-color)};
+
     
 
  
