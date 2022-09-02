@@ -26,10 +26,11 @@ body {
         line-height: 16px;
         letter-spacing: 0.02em;
    }
-   /* прибрав точки в списку */
-   ul {list-style: none;}
+  
    
 .site-nav .link{
     color:#212121
 }
 .acsent .link{ color:#2196F3}
+ /* прибрав точки в списку */
+ ul {list-style: none;}
