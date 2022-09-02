@@ -18,9 +18,17 @@
 
 body {
     background-color: #FFFFFF;
-    color: rgba(33, 33, 33, 1);
+        color: rgba(33, 33, 33, 1);
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
    }
-   .list{list-style: none;}
+   /* прибрав точки в списку */
+   ul {list-style: none;}
+   
 .site-nav .link{
     color:#212121
 }
