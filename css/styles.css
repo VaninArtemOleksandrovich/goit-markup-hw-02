@@ -26,14 +26,14 @@ body {
         line-height: 16px;
         letter-spacing: 0.02em;
    }
-  
+   ul {list-style: none;}
    /*webstudio*/
    .logo {color: var(--primary-text-color);
    }
    .accentlink{color:  var(--accent-text-color);}
    .acsent{color: var(--accent-text-color);}
     .acsent{color:var(--accent-text-color)}
- ul {list-style: none;}
+
 /*навігація сайту*/
 .accent.link{ color:#2196F3};
 .site-nav .link{ color: var(--title-text-color)};
@@ -45,4 +45,3 @@ body {
 
  
 
- 
