@@ -37,8 +37,15 @@ body {
 .site-nav .link{ color: var(--title-text-color)};
 
     /* section1*/
-    .resheniya{ background-color: black;
-    text-anchor:var(--primary-br-color)}
+    .resheniya{ background: color #2f303a;;
+    text-anchor:var(--primary-br-color)
+position:absolute;
+width: 1600px;
+height: 60px;
+left: 0px;
+top: 80px;
+b
+}
     .button.knopka{var(--accent-text-color)}
 
  
