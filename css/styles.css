@@ -18,7 +18,7 @@
 
 body {
     background-color: #FFFFFF;
-        color: rgba(33, 33, 33, 1);
+        color : rgba(33, 33, 33, 1);
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -28,9 +28,9 @@ body {
    }
   
    /*webstudio*/
-   .logotip { color:#212121;
+   .logotip { color:#212121;}
    
-   .acsent{ color:#2196F3
+   .acsent{ color:#2196F3}
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
