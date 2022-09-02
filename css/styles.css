@@ -33,8 +33,7 @@ body {
    .acsent{ color:#2196F3}
 .site-nav .link:hover,
 .site-nav .link:focus {
-    color:#212121
-}
+    color:#212121}
 .accent.link{ color:#2196F3}
  /* прибрав точки в списку */
  ul {list-style: none;}
