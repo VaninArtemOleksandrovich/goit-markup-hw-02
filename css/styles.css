@@ -35,6 +35,6 @@ body {
 .site-nav .link:focus {
     color:#212121
 }
-.accent .link{ color:#2196F3}
+.accent.link{ color:#2196F3}
  /* прибрав точки в списку */
  ul {list-style: none;}
