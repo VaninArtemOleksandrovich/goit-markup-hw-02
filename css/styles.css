@@ -71,10 +71,10 @@ font-weight: 600;
         text-align: center;
         position: absolute;
         weight: 1600px ;
-        height: 80 px;
+        height: 600 px;
         left: 0px;
-        top:0px;
-        background: #FFFFFF;
+        top: 80px;
+        
     }
 .knopka{
     background-color: #2196F3;
