@@ -17,22 +17,23 @@
 }
 
 body {
-    background-color: #FFFFFF;
+    background-color: #f5f5f5;
         color : rgba(33, 33, 33, 1);
         font-family: 'Roboto';
         font-style: normal;
-        font-family: 'Raleway', sans-serif;
+        , sans-serif;
 font-family: 'Roboto', sans-serif;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
-        letter-spacing: 0.02em;font-family: 'Raleway', sans-serif;
+        
         
    }
    ul {list-style: none;}
    /*webstudio*/
    .span { color:#2196F3}
-   .logo {color: var(--primary-text-color);
+   .logo {color: var(--primary-text-color
+    );
     
     font-family: Raleway;
 font-size: 26px;
@@ -55,6 +56,7 @@ text-align: left;
 
 /*навігація сайту*/
 .accent.link{ color:#2196F3};
+
 .site-nav .link{ color: var(--title-text-color)};
 .site-nav .link{ color: var(--title-text-color)};
 
