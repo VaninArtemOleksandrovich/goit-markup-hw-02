@@ -99,7 +99,8 @@ text-align: left;
 
 /*портфоліо*/
 .potfolio{
-    color: #f5f5f5;
+    color:#212121;
+    background-color: #f5f5f5;
 }
 .knopka{
     background-color: #2196F3;
