@@ -62,7 +62,7 @@ text-align: left;
         color: white;
         text-align: center;
 }
-/*абзаци форматуємо*/
+/*абзаци форматуємо та фото робимо зліва*/
 .h2{
     font-weight: 700;
     font-size: 14px;
@@ -79,6 +79,9 @@ text-align: left;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 00.03em;
+}
+.fotos{
+    float:left;
 }
  /*команду центруємо*/
  .comanda{
