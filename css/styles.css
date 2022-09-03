@@ -95,3 +95,12 @@ text-align: left;
     text-align: center; 
  }
 
+/* футер */
+.footer{
+    position: absolute;
+    width: 1600 px;
+    height: 252px;
+    left: 0px;
+    top: 2094px;
+    background:#2f303a;
+}
