@@ -71,6 +71,7 @@ text-align: left;
     text-transform: uppercase;
 }
 .p{
+
     position: absolute;
     width: 270px;
     height: 72px;
@@ -79,6 +80,9 @@ text-align: left;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 00.03em;
+    align:left;
+    vertical-align: top;
+    fill: solid#757575;
 }
 .fotos{
     float:left;
