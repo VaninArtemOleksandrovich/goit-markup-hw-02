@@ -24,12 +24,28 @@ body {
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.02em;font-family: 'Raleway', sans-serif;
+        
    }
    ul {list-style: none;}
    /*webstudio*/
    .span { color:#2196F3}
    .logo {color: var(--primary-text-color);
+    font-family: 'Roboto', sans-serif;
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
+
+font-family: Oleo Script;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+
    }
    .accentlink{color:  var(--accent-text-color);}
    .acsent{color: var(--accent-text-color);}
