@@ -94,7 +94,10 @@ text-align: left;
  .comanda{
     text-align: center; 
  }
-
+/*всі робімо синім*/
+.vsi{
+    color: #2196F3;
+}
 /* футер */
 .footer{
     position: absolute;
