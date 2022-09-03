@@ -72,6 +72,7 @@ text-align: left;
     background-color: #2196F3;
     color: #FFFFFF;
 }
+/*абзаци форматуємо*/
 .h2{
     font-weight: 700;
     font-size: 14px;
@@ -89,5 +90,8 @@ text-align: left;
     line-height: 24px;
     letter-spacing: 00.03em;
 }
- 
+ /*команду центруємо*/
+ .comanda{
+    text-align: center; 
+ }
 
