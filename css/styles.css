@@ -59,7 +59,7 @@ text-align: left;
 .site-nav .link{ color: var(--title-text-color)};
 
     /* section1*/
-    .resheniya{ background: color #2f303a;;
+    .resheniya{  color:rgba(33, 33, 33, 1);;
     margin: 0px 80px 1600px 600px;}
     h1{
         color: #FFFFFF;
