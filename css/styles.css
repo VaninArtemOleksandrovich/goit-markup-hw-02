@@ -93,7 +93,8 @@ text-align: left;
  }
 /*всі робімо синім*/
 .vsi{
-    color: #2196F3;
+    color: white;
+    background-color: #2196F3;
 }
 /* футер */
 .footer{
