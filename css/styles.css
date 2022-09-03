@@ -68,7 +68,7 @@ text-align: left;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 00.03em;
-    text-transform: uppercase;
+   
 }
 .p{
 
@@ -78,9 +78,7 @@ text-align: left;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 00.03em;
-    align:left;
-    vertical-align: top;
-    fill: solid#757575;
+   
 }
 .fotos{
     float:left;
