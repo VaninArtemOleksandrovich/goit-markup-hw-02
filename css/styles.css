@@ -60,7 +60,12 @@ text-align: left;
 
     /* section1*/
     .resheniya{ background: color #2f303a;;
-    text-anchor:var(--primary-br-color)
+    margin: 0px 80px 1600px 600px;}
+    h1{
+        color: #FFFFFF;
+        margin:  120px 696px 452px 280px;
+        border-radius: nullpx;
+    }
 
  
 
