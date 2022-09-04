@@ -78,6 +78,10 @@ text-align: left;
 .vsi{
     color: white;
     background-color: #2196F3;
+    cursor:pointer;
+    .button{
+        cursor:pointer;
+    }
 }
 /* футер */
 .footer{
