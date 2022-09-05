@@ -112,14 +112,18 @@ letter-spacing: 0.06em;}
     
     
 }
+.ul { list-style: none; }
 .active:hover:focus{
     background-color: #2196F3;
-    color: #FFFFFF;}
+    color: #FFFFFF;
+    text-decoration: none;
+    }
 
     .buttons:hover:focus{
         font-weight: 700;
         font-size: 18px;
     line-height: 36px;
+    text-decoration: none;
     text-align: center;
     }
     .zagolovok{
