@@ -119,7 +119,7 @@ letter-spacing: 0.06em;}
 
     /* footer*/
     .footer { color: var(--primary-br-color);
-    background-color: var(--primary-text-color);
+    background-color: var(--title-text-color);
     .span: { color: var(--accent-text-color)}
    .logo {color: var(--primary-text-color);
 }
