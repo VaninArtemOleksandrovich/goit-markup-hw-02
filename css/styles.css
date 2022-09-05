@@ -115,6 +115,8 @@ letter-spacing: 0.06em;}
     color: #FFFFFF;}
     .footer { color: var(--primary-br-color);
     background-color: #2F303A;
+    .span { color: var(--accent-text-color)}
+   .logo {color: var(--primary-text-color);
 }
       .footer-title {color: var(--accent-text-color);
         font-family: 'Raleway';
