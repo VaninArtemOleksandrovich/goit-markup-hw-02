@@ -145,9 +145,14 @@ letter-spacing: 0.06em;}
 
     /* footer*/
     .footer { color: var(--primary-br-color);
+        font-family:  'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
     background-color: var(--title-text-color);
     .span: { color: var(--accent-text-color)}
-   
+    
         /* identical to box height */
         .footer1 {
         font-family: 'Roboto';
