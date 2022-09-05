@@ -127,7 +127,7 @@ letter-spacing: 0.06em;}
         color: var(--accent-text-color);
     } 
         /* identical to box height */
-        .footer-br {color: var(--primary-br-color);
+        .footer-br {
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
@@ -136,7 +136,7 @@ letter-spacing: 0.06em;}
         /* or 171% */
      
       
-      .footer-list {color: var(--primary-br-color);
+      .footer-list {
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
