@@ -46,7 +46,7 @@ text-align: left;
     .acsent{color:var(--accent-text-color)}
 
 /*навігація сайту*/
-.accent.link{ color:#2196F3};
+.accent.link {color: var(--accent-text-color);};
 
 .site-nav.link {color:var(--primary-text-color);
     font-family: 'Roboto';
