@@ -121,11 +121,7 @@ letter-spacing: 0.06em;}
     .footer { color: var(--primary-br-color);
     background-color: var(--title-text-color);
     .span: { color: var(--accent-text-color)}
-   .logo {color: var(--primary-br-color);
-}
-    .acsent {
-        color: var(--accent-text-color);
-    } 
+   
         /* identical to box height */
         .footer-br {
         font-family: 'Roboto';
