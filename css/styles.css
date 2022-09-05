@@ -113,10 +113,10 @@ letter-spacing: 0.06em;}
     
 }
 .ul { list-style: none; }
-.active:hover:focus{
+.active:hover:{
     background-color: #2196F3;
     color: #FFFFFF;
-    text-decoration: none;
+    
     }
 
     .buttons:hover:focus{
