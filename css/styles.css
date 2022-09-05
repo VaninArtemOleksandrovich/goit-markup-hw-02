@@ -85,6 +85,8 @@ text-align: center;
 letter-spacing: 0.06em;}
 
 /*командa*/
+/* Section */
+
 .section-title{
     font-size: 36px;
     line-height: 42px;
@@ -97,8 +99,7 @@ letter-spacing: 0.06em;}
       font-size: 16px;
       line-height: 19px;
       text-align: center;
-    
-    
+      
     /* Feature */
     
     .feature-list .title {color: var(--primary-text-color);}
