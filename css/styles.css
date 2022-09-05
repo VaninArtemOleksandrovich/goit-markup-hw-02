@@ -48,8 +48,12 @@ text-align: left;
 /*навігація сайту*/
 .accent.link{ color:#2196F3};
 
-.site-nav .link{ color: var(--title-text-color)};
-.site-nav .link{ color: var(--title-text-color)};
+.site-nav.link {color:var(--primary-text-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
 
     /* section1*/
     .resheniya{  color:rgba(33, 33, 33, 1);
