@@ -112,10 +112,11 @@ letter-spacing: 0.06em;}
     
     
 }
-.active:hover{
+.active:hover:focus{
     background-color: #2196F3;
     color: #FFFFFF;}
-    .buttons:hover{
+
+    .buttons:hover:focus{
         font-weight: 700;
         font-size: 18px;
     line-height: 36px;
