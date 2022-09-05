@@ -111,9 +111,15 @@ letter-spacing: 0.06em;}
     
     
 }
-.active{
+.active:hover{
     background-color: #2196F3;
     color: #FFFFFF;}
+    .buttons:hover{
+        font-weight: 700;
+        font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    }
     .zagolovok{
         color: var(--primary-text-color);
         font-weight: 700;
