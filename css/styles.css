@@ -113,9 +113,13 @@ letter-spacing: 0.06em;}
 .knopka{
     background-color: #2196F3;
     color: #FFFFFF;}
+
+
+
+    /* footer*/
     .footer { color: var(--primary-br-color);
-    background-color: #2F303A;
-    .span { color: var(--accent-text-color)}
+    background-color: var(--primary-text-color);
+    .span: { color: var(--accent-text-color)}
    .logo {color: var(--primary-text-color);
 }
       .footer-title {color: var(--accent-text-color);
