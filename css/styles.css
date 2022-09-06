@@ -186,10 +186,17 @@ ul {
   line-height: 1.88;
   text-align: left;
 }
-/* footer*/
-.footer: 
- 
-  
+/* footer*/ 
+ .footer {
+     color: var(--primary-br-color);
+     font-family: 'Raleway';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 26px;
+     line-height: 1.71;
+     background-color: var(--title-text-color);
+     text-decoration: none;
+ }
  
 .span {
   color: var(--accent-text-color);
