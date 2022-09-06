@@ -26,7 +26,7 @@ body {
     letter-spacing: 0.03em;
     text-decoration: none;
    }
-   link {list-style: none;}
+   .link {list-style: none;}
    /*webstudio*/
    .span { color: var(--accent-text-color)}
    .logo {color: var(--primary-text-color);
