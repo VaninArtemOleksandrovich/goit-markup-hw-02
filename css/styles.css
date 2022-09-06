@@ -37,7 +37,7 @@ body {
   list-style: none;
 }
 button {
-    cursor: pointer;
+  cursor: pointer;
 }
 /*webstudio*/
 .span {
@@ -123,7 +123,7 @@ button {
 /* Section */
 
 .title {
-    font-weight: 700;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.15;
   text-align: left;
@@ -160,18 +160,18 @@ ul {
   text-align: center;
 }
 .zagolovok {
-        color: var(--primary-text-color);
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 2;
-        letter-spacing: 0.06em;
+  color: var(--primary-text-color);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
   text-align: left;
 }
 .paragraf {
-    color: var(--secondary-text-color);
-    font-weight: 400;
-        font-size: 16px;
-        line-height: 1.88;
+  color: var(--secondary-text-color);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
   text-align: left;
 }
 /* footer*/
@@ -189,7 +189,6 @@ ul {
   color: var(--accent-text-color);
 }
 
-}
 /* identical to box height */
 .footer1 {
   color: var(--primary-br-color);
