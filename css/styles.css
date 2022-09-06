@@ -24,7 +24,9 @@ body {
   letter-spacing: 0.03em;
   text-decoration: none;
 }
-
+.link {
+    text-decoration: none;
+}
 .ul {
   list-style: none;
 }
