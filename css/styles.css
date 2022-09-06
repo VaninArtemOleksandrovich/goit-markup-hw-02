@@ -187,7 +187,7 @@ ul {
   text-align: left;
 }
 .paragraf {
-  color: var(--secondary-text-color);
+  color: var(--title-list-text-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
