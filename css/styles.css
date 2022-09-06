@@ -32,7 +32,7 @@ body {
 }
 .hover-color:hover,
 .hover-color:focus {
-    color: var(--accent-color);
+    color: var(--accent-text-color);
 }
 
 /*webstudio*/
