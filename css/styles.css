@@ -42,7 +42,7 @@ button {
 /*webstudio*/
 .span {
   color: var(--accent-text-color);
-font-size: 26px;
+  font-size: 26px;
 }
 .logo {
   color: var(--primary-text-color);
@@ -123,16 +123,16 @@ font-size: 26px;
 /*командa*/
 /* Section */
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 .title {
   font-weight: 700;
@@ -140,12 +140,12 @@ font-size: 26px;
   line-height: 1.15;
   text-align: left;
 }
-.title-list{
-    color: var(--title-list-text-color);
-    font-weight: 400;
-        font-size: 14px;
-        line-height: 1.71;
-        text-align: left;
+.title-list {
+  color: var(--title-list-text-color);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  text-align: left;
 }
 
 .title-team {
@@ -193,32 +193,32 @@ ul {
   line-height: 1.88;
   text-align: left;
 }
-/* footer*/ 
- .footer {
-     color: var(--primary-br-color);
-     font-family: 'Raleway';
-     font-style: normal;
-     font-weight: 700;
-     font-size: 26px;
-     line-height: 1.71;
-     background-color: var(--primary-text-color);
-     text-decoration: none;
- }
- .footer{
-    background-color: var(--primary-text-color);
- }
+/* footer*/
+.footer {
+  color: var(--primary-br-color);
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.71;
+  background-color: var(--primary-text-color);
+  text-decoration: none;
+}
+.footer {
+  background-color: var(--primary-text-color);
+}
 .span {
   color: var(--accent-text-color);
-font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
 }
-.acsent{
-    font-family: 'Raleway';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 26px;
+.acsent {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
 }
 /* identical to box height */
 .footer1 {
