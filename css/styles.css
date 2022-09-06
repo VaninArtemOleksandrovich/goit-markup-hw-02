@@ -194,7 +194,7 @@ ul {
      font-weight: 700;
      font-size: 26px;
      line-height: 1.71;
-     background-color: var(--title-text-color);
+     background-color: var(--primary-text-color);
      text-decoration: none;
  }
  
