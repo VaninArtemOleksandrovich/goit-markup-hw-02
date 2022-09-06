@@ -18,7 +18,7 @@
 }
 
 body {
-    background-color: #FFFFFF;
+    background-color: var(--footer-list);
     color:var(--primary-text-color);
     font-family: 'Roboto';
     font-size: 14px;
@@ -27,6 +27,7 @@ body {
     text-decoration: none;
    }
    .link {list-style: none;}
+   ul{}
    /*webstudio*/
    .span { color: var(--accent-text-color)}
    .logo {color: var(--primary-text-color);
