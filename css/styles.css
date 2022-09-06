@@ -170,18 +170,7 @@ ul {
   background-color: #2196f3;
   color: #ffffff;
 }
-.zagolovokh1
-    {
-            color: var(--primary-br-color);
-            font-weight: 900;
-            font-size: 44px;
-            line-height: 60px;
-            /* or 136% */
-    
-            text-align: center;
-            letter-spacing: 0.06em;
-            text-transform: uppercase;
-        }
+
 .buttons:hover:focus {
   font-weight: 700;
   font-size: 18px;
