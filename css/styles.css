@@ -133,7 +133,7 @@ body {
 
 /*портфоліо*/
 
-.li {
+ul {
   list-style: none;}
 .active:active {
   background-color: #2196f3;
