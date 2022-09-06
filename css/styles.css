@@ -42,6 +42,10 @@ line-height: 1.2;
 
 text-align: left;
 }
+.active{
+    background-color: var(--accent-text-color);
+    color: var(--primary-br-color);
+}
    .accentlink{color:  var(--accent-text-color);}
    .acsent{color: var(--accent-text-color);
 }
