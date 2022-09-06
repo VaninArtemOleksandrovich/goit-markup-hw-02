@@ -197,7 +197,9 @@ ul {
      background-color: var(--primary-text-color);
      text-decoration: none;
  }
- 
+ .footer{
+    color: var(--primary-text-color);
+ }
 .span {
   color: var(--accent-text-color);
 font-family: 'Raleway';
