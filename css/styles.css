@@ -26,6 +26,7 @@ body {
     letter-spacing: 0.03em;
     text-decoration: none;
    } 
+
    .ul{list-style: none;}
    
    /*webstudio*/
@@ -67,9 +68,9 @@ text-align: left;
     line-height: 60px;
     /* or 136% */
     
-    text-align: center;
+    text-align : center;
     letter-spacing: 0.06em;
-    text-transform: uppercase;}
+    text-transform: uppercase;
 
     /* Button */
 .button { color: var(#000000 15%);}
@@ -112,9 +113,6 @@ letter-spacing: 0.06em;}
 /*портфоліо*/
 .potfolio{
    }
-    
-    
-}
 .ul { list-style: none; }
 .active:active{
     background-color: #2196F3;
