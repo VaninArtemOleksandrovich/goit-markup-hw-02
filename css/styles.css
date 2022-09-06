@@ -184,12 +184,12 @@ ul {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  text-align: left;
+  text-align: left:
 }
 .paragraf {
   color: var(--title-list-text-color);
   font-weight: 400;
-  font-size: 16px;
+  font-size: 30px;
   line-height: 1.88;
   text-align: left;
 }
