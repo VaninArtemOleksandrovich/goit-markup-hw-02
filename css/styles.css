@@ -36,7 +36,9 @@ body {
   color: var(--accent-text-color);
   list-style: none;
 }
-
+button {
+    cursor: pointer;
+}
 /*webstudio*/
 .span {
   color: var(--accent-text-color);
