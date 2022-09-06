@@ -29,7 +29,12 @@ body {
 }
 .ul {
   list-style: none;
+}
 
+.hover-color:hover,
+.hover-color:focus {
+    color: var(--accent-text-color);
+}
 
 /*webstudio*/
 .span {
