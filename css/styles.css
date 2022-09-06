@@ -27,7 +27,9 @@ body {
     text-decoration: none;
    } 
 
-   .ul{list-style: none;}
+   .ul {
+       list-style: none;
+   }
    
    /*webstudio*/
    .span { color: var(--accent-text-color)}
@@ -120,9 +122,7 @@ letter-spacing: 0.06em;}
 .ul { list-style: none; }
 .active:active{
     background-color: #2196F3;
-    color: #FFFFFF;
-    
-    }
+    color: #FFFFFF;}
 
     .buttons:hover:focus{
         font-weight: 700;
@@ -136,27 +136,22 @@ letter-spacing: 0.06em;}
         font-weight: 700;
         font-size: 18px;
     line-height: 36px;
-    text-align: left;
-}
+    text-align: left;}
 .paragraf{
     color: var(--primary-text-color);
         font-weight: 400;
         font-size: 16px;
     line-height: 30px;
-    text-align: left;
-}
-
-
-
-    /* footer*/
+    text-align: left;}
+/* footer*/
     .footer { color: var(--primary-br-color);
         font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
-    background-color: var(--title-text-color);
-    .span: { color: var(--accent-text-color)}
+    background-color: var(--title-text-color);}
+    .span { color: var(--accent-text-color)}
     
         /* identical to box height */
         .footer1 {
