@@ -111,7 +111,7 @@ letter-spacing: 0.06em;}
       
     /* Feature */
     
-    .feature-list .title {color: var(--primary-text-color);}
+    .feature-list.title {color: var(--primary-text-color);}
 
 
 /*портфоліо*/
