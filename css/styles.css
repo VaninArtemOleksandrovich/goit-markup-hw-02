@@ -187,9 +187,11 @@ ul {
   text-align: left;
 }
 /* footer*/
-.footer {
+.footer: hover,focus {
+    color: var(--accent-text-color);
+    list-style: none;
  
-  background-color: var(--title-text-color);
+  background-color: var(--title-text-color);}
  
 .span {
   color: var(--accent-text-color);
