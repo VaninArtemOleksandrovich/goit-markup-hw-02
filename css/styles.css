@@ -181,13 +181,15 @@ ul {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.71;
   background-color: var(--title-text-color);
+  text-decoration: none;
 }
 .span {
   color: var(--accent-text-color);
 }
 
+}
 /* identical to box height */
 .footer1 {
   color: var(--primary-br-color);
@@ -195,7 +197,7 @@ ul {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.17;
   text-decoration: none;
 }
 /* or 171% */
