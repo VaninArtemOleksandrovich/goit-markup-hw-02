@@ -147,7 +147,7 @@ letter-spacing: 0.06em;}
 
     /* footer*/
     .footer { color: var(--primary-br-color);
-        font-family:  'Raleway';
+        font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -157,12 +157,13 @@ letter-spacing: 0.06em;}
     
         /* identical to box height */
         .footer1 {
-            color: var(--primary-br-color);
-        font-family: 'Roboto';
+        color: var(--primary-br-color);
+        font-family:'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 24px;}
+        line-height: 24px; 
+        text-decoration: none;}
         /* or 171% */
      
       
