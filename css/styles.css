@@ -123,16 +123,17 @@ button {
 /* Section */
 
 .title {
+    font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
-  text-align: center;
+  line-height: 1.15;
+  text-align: left;
 }
 
 .title-team {
   font-weight: 400;
   font-size: 16px;
-  line-height: 19px;
-  text-align: center;
+  line-height: 1.19;
+  text-align: left;
 }
 
 /* Feature */
