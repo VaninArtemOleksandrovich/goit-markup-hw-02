@@ -193,8 +193,14 @@ ul {
  
 .span {
   color: var(--accent-text-color);
-}
 
+}
+.acsent{
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+}
 /* identical to box height */
 .footer1 {
   color: var(--primary-br-color);
