@@ -157,6 +157,7 @@ letter-spacing: 0.06em;}
     
         /* identical to box height */
         .footer1 {
+            color: var(--primary-br-color);
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
