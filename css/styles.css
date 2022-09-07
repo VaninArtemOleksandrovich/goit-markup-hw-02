@@ -13,6 +13,7 @@
   --primary-br-color: #ffffff;
   --title-list-text-color: #757575;
   --footer-list: #ffffff 60%;
+  --list-back-color:#f5f4fa;
 }
 
 body {
@@ -197,7 +198,7 @@ ul {
 }
 /*knopku portfolio*/
 .buttons {
-  background-color: var(--title-list-text-color);
+  background-color:var(--list-back-color);
     border-radius: 4px;
     border: none;
     font-family: inherit;
