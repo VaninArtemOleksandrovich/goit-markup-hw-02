@@ -52,7 +52,6 @@ button {
   font-size: 26px;
   font-weight: 700;
   line-height: 1.2;
-
   text-align: left;
 }
 .active {
@@ -73,7 +72,7 @@ button {
 }
 /* ssulku portfolio i kontaktu*/
 .link {
-  color: var(--primary-text-color);
+  color: var(-));
   font-family: 'Roboto';
   font-style: normal;
   font-size: 14px;
