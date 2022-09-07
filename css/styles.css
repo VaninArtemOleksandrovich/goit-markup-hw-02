@@ -229,7 +229,7 @@ ul {
   font-size: 26px;
 }
 /* identical to box height */
-.footer1 {
+.footer1:hover,:focus {
   color: var(--primary-br-color);
   font-family: 'Roboto';
   font-style: normal;
