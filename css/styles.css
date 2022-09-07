@@ -212,7 +212,8 @@ ul {
   background-color: var(--primary-text-color);
   text-decoration: none;
 }
-.footer {
+.footer:hover,
+:focus {
   background-color: var(--primary-text-color);
 }
 .span {
