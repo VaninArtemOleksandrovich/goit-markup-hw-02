@@ -80,7 +80,10 @@ button {
   letter-spacing: 0.02em;
   text-decoration: none;
 }
-
+/*suni ssulku*/
+.lynk{
+  color: var(--title-list-text-color);
+}
 /* section1 Hero */
 
 .hero {
