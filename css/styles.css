@@ -168,7 +168,7 @@ button {
   background-color: #f5f4fa;
 }
 .white{
-  color:var(--footer-list);
+  background-color:var(--footer-list);
 }
 /*zapus h3*/
 .chlen{ 
