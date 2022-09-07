@@ -229,7 +229,7 @@ ul {
   font-size: 26px;
 }
 /* identical to box height */
-.footer1{
+.footer1 {
   color: var(--primary-br-color);
   font-family: 'Roboto';
   font-style: normal;
@@ -238,7 +238,7 @@ ul {
   line-height: 1.17;
   text-decoration: none;
 }
-.footer11{
+.footer11 {
   color: var(--title-list-text-color);
   font-family: 'Roboto';
   font-style: normal;
