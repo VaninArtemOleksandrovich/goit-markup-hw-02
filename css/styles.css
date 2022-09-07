@@ -61,7 +61,8 @@ button {
   color: var(--primary-br-color);
 }
 .accentlink {
-  color: var(--accent-text-color);
+  color: var(--primary-text-color);
+  text-decoration: none;
 }
 .acsent {
   color: var(--accent-text-color);
@@ -74,6 +75,10 @@ button {
   text-decoration: none;
 }
 /* ssulku portfolio i kontaktu*/
+.link1{
+  color:var(--accent-text-color);
+  text-decoration: none;
+}
 .link {
   color: var(--primary-text-color);
   font-family: 'Roboto';
