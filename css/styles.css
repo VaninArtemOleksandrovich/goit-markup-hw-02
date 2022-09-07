@@ -147,7 +147,7 @@ button {
 }
 /*zapus h3*/
 .title-list {
-  color: var(--primary-text-color);
+  color: var(--title-list-text-color);
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
