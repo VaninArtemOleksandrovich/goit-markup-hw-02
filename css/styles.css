@@ -247,6 +247,10 @@ ul {
   font-weight: 700;
   font-size: 26px;
 }
+.hover-color:hover,
+.hover-color:focus {
+  color: var(--accent-color);
+}
 .acsent {
   font-family: 'Raleway';
   font-style: normal;
