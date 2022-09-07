@@ -235,4 +235,13 @@ ul {
   line-height: 1.17;
   text-decoration: none;
 }
+.footer11 {
+  color: var(--title-list-text-color);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.17;
+  text-decoration: none;
+}
 /* or 171% */
