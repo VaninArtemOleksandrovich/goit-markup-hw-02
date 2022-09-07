@@ -77,6 +77,7 @@ button {
 /* ssulku portfolio i kontaktu*/
 .link1{
   color:var(--accent-text-color);
+  font-weight: 500;
   text-decoration: none;
 }
 .link {
