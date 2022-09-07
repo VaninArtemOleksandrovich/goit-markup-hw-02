@@ -198,8 +198,9 @@ ul {
     list-style: none;
 }
 /*knopku portfolio*/
-.buttons {
-  background-color:var(--list-back-color);
+.buttons:hover,
+.buttons:focus {
+  background-color:var(--accent-text-color);
     border-radius: 4px;
     border: none;
     font-family: inherit;
