@@ -251,14 +251,19 @@ ul {
 .hover-color:focus {
   color: var(--accent-color);
 }
-.abba{
+.abba {
   color: var(--primary-br-color);
   list-style: none;
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  text-decoration: none;
+  text-decoration: none;}
+  .abba:hover,
+.abba:focus {
+  color:var(--accent-text-color);
+
+
 }
 .acsent {
   font-family: 'Raleway';
@@ -286,5 +291,9 @@ ul {
   font-size: 14px;
   line-height: 1.17;
   text-decoration: none;
+}
+.footer11:hover,
+.footer11:focus{
+  color: var(--accent-text-color);
 }
 /* or 171% */
