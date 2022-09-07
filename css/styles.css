@@ -238,7 +238,7 @@ ul {
   line-height: 1.17;
   text-decoration: none;
 }
-.footer11 {
+.footer11:hover,:focus{
   color: var(--title-list-text-color);
   font-family: 'Roboto';
   font-style: normal;
