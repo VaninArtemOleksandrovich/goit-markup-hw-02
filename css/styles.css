@@ -69,6 +69,7 @@ button {
 /*knopka studii sunya*/
 .accent.link {
   color: var(--accent-text-color);
+  font-weight: 500;
   text-decoration: none;
 }
 /* ssulku portfolio i kontaktu*/
@@ -76,6 +77,7 @@ button {
   color: var(--primary-text-color);
   font-family: 'Roboto';
   font-style: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
