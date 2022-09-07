@@ -149,7 +149,6 @@ button {
 .title-list {
   color: var(--title-list-text-color);
   font-weight: 400;
-  font-size: 14px;
   line-height: 1.71;
   text-align: left;
 }
