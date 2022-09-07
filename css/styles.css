@@ -164,6 +164,12 @@ button {
   line-height: 1.15;
   text-align:left;
 }
+.section{
+  background-color: #f5f4fa;
+}
+.white{
+  color:var(--footer-list);
+}
 /*zapus h3*/
 .chlen{ 
   font-weight: 500;
@@ -176,6 +182,7 @@ button {
   line-height: 1.71;
   text-align: left;
 }
+
 /*opus komandy  */
 .title-team {
   color: var(--title-list-text-color);
