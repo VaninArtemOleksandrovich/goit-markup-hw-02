@@ -22,7 +22,6 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  text-decoration: none;
 }
 link {
   text-decoration: none;
@@ -35,6 +34,7 @@ link {
 .hover-color:focus {
   color: var(--accent-text-color);
   list-style: none;
+  text-decoration: none;
 }
 button {
   cursor: pointer;
