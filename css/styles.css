@@ -151,6 +151,7 @@ button {
 }
 /*opus komandy  */
 .title-team {
+  color: var(--title-list-text-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
