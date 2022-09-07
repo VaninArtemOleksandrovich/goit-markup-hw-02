@@ -143,7 +143,7 @@ button {
 }
 /*zapus h3*/
 .title-list {
-  color: var(--title-list-text-color);
+  color: var(--primary-text-color);
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -153,7 +153,6 @@ button {
 .title-team {
   color: var(--title-list-text-color);
   font-weight: 400;
-  font-size: 16px;
   line-height: 1.19;
   text-align: left;
 }
