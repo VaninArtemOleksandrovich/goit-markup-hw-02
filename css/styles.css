@@ -82,7 +82,7 @@ button {
   text-decoration: none;
 }
 /*suni ssulku*/
-.lynk{
+.lynk {
   color: var(--title-list-text-color);
   text-decoration: none;
 }
@@ -212,7 +212,7 @@ ul {
   background-color: var(--primary-text-color);
   text-decoration: none;
 }
-.footer{
+.footer {
   background-color: var(--primary-text-color);
 }
 .span {
