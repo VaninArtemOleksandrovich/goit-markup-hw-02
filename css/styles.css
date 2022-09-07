@@ -186,15 +186,16 @@ ul {
 }
 /*actuvna knopka ysi*/
 .active:active {
-  background-color: #2196f3;
-  color: #ffffff;
-    border-radius: 4px;
+  background-color:var(--title-list-text-color);
+  color:var(--accent-text-color);
+    border-radius: 6px;
     border: none;
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
+    list-style: none;
 }
 /*knopku portfolio*/
 .buttons {
