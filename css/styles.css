@@ -161,9 +161,14 @@ button {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.15;
-  text-align: left;
+  text-align:left;
 }
 /*zapus h3*/
+.chlen{ 
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align:center;}
 .title-list {
   color: var(--title-list-text-color);
   font-weight: 400;
@@ -175,7 +180,7 @@ button {
   color: var(--title-list-text-color);
   font-weight: 400;
   line-height: 1.19;
-  text-align: left;
+  text-align: center;
 }
 
 /* Feature */
