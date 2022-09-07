@@ -32,7 +32,7 @@ link {
 
 .hover-color:hover,
 .hover-color:focus {
-  color: var(--accent-text-color);
+  color: var(--title-list-text-color);
   list-style: none;
   text-decoration: none;
 }
@@ -72,7 +72,7 @@ button {
 }
 /* ssulku portfolio i kontaktu*/
 .link {
-  color: var(-));
+  color: var(--primary-text-color);
   font-family: 'Roboto';
   font-style: normal;
   font-size: 14px;
