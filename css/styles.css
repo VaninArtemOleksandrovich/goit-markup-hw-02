@@ -212,8 +212,7 @@ ul {
   background-color: var(--primary-text-color);
   text-decoration: none;
 }
-.footer:hover,
-:focus {
+.footer{
   background-color: var(--primary-text-color);
 }
 .span {
@@ -230,7 +229,7 @@ ul {
   font-size: 26px;
 }
 /* identical to box height */
-.footer1:hover,:focus {
+.footer1{
   color: var(--primary-br-color);
   font-family: 'Roboto';
   font-style: normal;
@@ -239,7 +238,7 @@ ul {
   line-height: 1.17;
   text-decoration: none;
 }
-.footer11:hover,:focus{
+.footer11{
   color: var(--title-list-text-color);
   font-family: 'Roboto';
   font-style: normal;
