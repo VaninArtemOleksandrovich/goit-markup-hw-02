@@ -124,33 +124,19 @@ button {
   text-align: center;
   letter-spacing: 0.06em;
 }
-/* zagolovku h2*/
+/* zagolovok h2 first*/
 .section-title {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
 }
 
 /*командa*/
-/* Section */
+/* zagolovok h2 second */
 .visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
 }
 /* zagolovku h3*/
 .title {
