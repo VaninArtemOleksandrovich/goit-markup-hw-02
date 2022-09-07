@@ -84,6 +84,7 @@ button {
 /*suni ssulku*/
 .lynk {
   color: var(--title-list-text-color);
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 /* section1 Hero */
@@ -135,10 +136,16 @@ button {
 /*командa*/
 /* zagolovok h2 second */
 .visually-hidden {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.17;
-  text-align: center;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 /* zagolovku h3*/
 .title {
