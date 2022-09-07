@@ -66,13 +66,13 @@ button {
   color: var(--accent-text-color);
 }
 
-/*навігація сайту*/
+/*knopka studii sunya*/
 .accent.link {
   color: var(--accent-text-color);
   text-decoration: none;
 }
-
-.site-nav.link {
+/* ssulku portfolio i kontaktu*/
+.link {
   color: var(--primary-text-color);
   font-family: 'Roboto';
   font-style: normal;
@@ -82,11 +82,12 @@ button {
   text-decoration: none;
 }
 
-/* section1*/
-/* Hero */
+/* section1 Hero */
+
 .hero {
   background-color: var(--title-text-color);
 }
+/* efektuvni rishennya*/
 .hero-title {
   color: var(--primary-br-color);
   font-weight: 900;
@@ -134,12 +135,14 @@ button {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+/* zagolovku h3*/
 .title {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.15;
   text-align: left;
 }
+/*zapus h3*/
 .title-list {
   color: var(--title-list-text-color);
   font-weight: 400;
@@ -147,7 +150,7 @@ button {
   line-height: 1.71;
   text-align: left;
 }
-
+/*opus komandy  */
 .title-team {
   font-weight: 400;
   font-size: 16px;
@@ -166,17 +169,19 @@ button {
 ul {
   list-style: none;
 }
+/*actuvna knopka ysi*/
 .active:active {
   background-color: #2196f3;
   color: #ffffff;
 }
-
+/*knopku portfolio*/
 .buttons:hover:focus {
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
   text-decoration: none;
   text-align: center;
+  /* zagolovku portfolio*/
 }
 .zagolovok {
   color: var(--primary-text-color);
@@ -184,8 +189,9 @@ ul {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  text-align: left:
+  text-align: left;
 }
+/*opusannya grup portfolio */
 .paragraf {
   color: var(--title-list-text-color);
   font-weight: 400;
