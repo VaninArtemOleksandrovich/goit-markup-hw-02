@@ -137,7 +137,7 @@ button {
 }
 /* zagolovok h2 first*/
 .section-title {
-  font-weight: 700;
+ 
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
@@ -145,18 +145,8 @@ button {
 
 /*командa*/
 /*scruwaem h1 na portfolio */
-.section-title {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
+
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -227,10 +217,9 @@ ul {
    color: var(--primary-br-color);
 }
   /* zagolovku portfolio*/
-}
+
 .progect-title {
-  color: var(--primary-text-color);
-  
+  color:var(--primary-text-color);
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -270,7 +259,6 @@ footer {background-color: var(--primary-text-color);
  
 
 
-}
 .acsent {
   font-family: 'Raleway';
   font-style: normal;
