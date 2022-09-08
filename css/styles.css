@@ -228,7 +228,7 @@ ul {
 }
   /* zagolovku portfolio*/
 }
-.zagolovok {
+.progect-title {
   color: var(--primary-text-color);
   font-weight: 700;
   font-size: 18px;
@@ -237,11 +237,10 @@ ul {
   text-align: left;
 }
 /*opusannya grup portfolio */
-.paragraf {
+.progect-deskription {
   color: var(--title-list-text-color);
-  font-weight: 400;
   line-height: 1.88;
-  text-align: left;
+  
 }
 /* footer*/
 
