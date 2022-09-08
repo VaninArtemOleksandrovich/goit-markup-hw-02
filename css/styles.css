@@ -239,6 +239,7 @@ ul {
 /*opusannya grup portfolio */
 .progect-deskription {
   color: var(--title-list-text-color);
+  font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
   
