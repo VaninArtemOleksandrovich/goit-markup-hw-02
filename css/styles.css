@@ -230,16 +230,17 @@ ul {
 }
 .progect-title {
   color: var(--primary-text-color);
-  font-weight: 700;
+  
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  text-align: left;
+
 }
 /*opusannya grup portfolio */
 .progect-deskription {
   color: var(--title-list-text-color);
   line-height: 1.88;
+  letter-spacing: 0.03em;
   
 }
 /* footer*/
