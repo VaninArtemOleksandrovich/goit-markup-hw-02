@@ -69,7 +69,7 @@ button {
 }
 
 /*knopka studii sunya*/
-.accent.link {
+.accentlink {
   color: var(--accent-text-color);
   font-weight: 500;
   text-decoration: none;
@@ -218,26 +218,13 @@ ul {
 .active:active {
   background-color:var(--title-list-text-color);
   color:var(--accent-text-color);
-    border-radius: 6px;
-    border: none;
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
-    list-style: none;
+   
 }
 /*knopku portfolio*/
 .buttons:hover,
 .buttons:focus {
   background-color:var(--accent-text-color);
-    border-radius: 4px;
-    border: none;
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
+   color: var(--primary-br-color);
 }
   /* zagolovku portfolio*/
 }
@@ -257,18 +244,8 @@ ul {
   text-align: left;
 }
 /* footer*/
-.footer {
-  color: var(--primary-br-color);
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.71;
-  background-color: var(--primary-text-color);
-  text-decoration: none;
-}
-.footer {
-  background-color: var(--primary-text-color);
+
+footer {background-color: var(--primary-text-color);
 }
 .span {
   color: var(--accent-text-color);
@@ -289,9 +266,7 @@ ul {
   font-weight: 700;
   font-size: 26px;
   text-decoration: none;}
-  .abba:hover,
-.abba:focus {
-  color:var(--accent-text-color);
+ 
 
 
 }
@@ -314,16 +289,15 @@ ul {
 }
 .footer11
 {
-  color: var(--title-list-text-color);
-  font-family: 'Roboto';
+  color: rgba(255,255,255,0.6);
+  
   font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
+
   line-height: 1.17;
   text-decoration: none;
 }
 .footer11:hover,
 .footer11:focus{
-  color: var(--accent-text-color);
+  color:var(--accent-text-color);
 }
 /* or 171% */
