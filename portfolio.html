@@ -1,98 +1,142 @@
-<!DOCTYPE html>
-<html lang="uk">
-<head>
+<html lang="uk"><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css" />
-    
-</head>
-<body class="potfolio">
-    <!--Шапка сторінки-->
-    <header >
-        <nav> 
-            <a href="./index.html"class="logo -hover-color"  >
-                <span class="acsent -hover-color">Web</span>Studio
-            
-        <ul>
-            <li><a href="./index.html" class="link1 hover-color">Студія</a></li>
-            <li><a href="./portfolio.html" class="accentlink hover-color">Портфоліо</a></li>
-            <li><a href="" class="link hover-color">Контакти</a></li>
+    <title>Портфоліо</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&amp;family=Roboto:wght@400;500;700;900&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+  </head>
+  <body>
+    <header>
+      <nav class="navigation">
+        <a class="logo link" href="./index.html" aria-label="Посилання на домашню сторінку"><span class="current">Web</span>Studio</a>
+        <ul class="navigation-list list">
+          <li class="navigation-time ">
+            <a class="navigation-link hover-color link" href="./index.html" aria-label="Посилання на сторінку'Студія'">Студія</a>
+          </li>
+          <li class="navigation-time ">
+            <a class="navigation-link hover-color current link" href="./portfolio.html" aria-label="Посилання на сторінку'Портфоліо'">Портфоліо</a>
+          </li>
+          <li class="navigation-time ">
+            <a class="navigation-link hover-color link" href="" aria-label="Посилання на сторінку з контактами">Контакти</a>
+          </li>
         </ul>
-        </nav>
-            <ul>
-                <li><a class="lynk hover-color"href="mailto:info@devstudio.com">info@devstudio.com</a></li>
-                <li><a class="lynk hover-color"href="tel:+380961111111">+38 096 111 11 11</a></li>
-            </ul>
-        </header>  
-    <body >
-        <main>
-            <section>
-                <h1 class="visually-hidden">заголовок</h1>
-
-           <ul>
-           <li> <button class="active" type="button">    Усі    </button> </li>
-           <li> <button class="buttons" type="button">Веб-сайти</button> </li> 
-           <li><button class="buttons" type="button">Додатки</button> </li>
-           <li><button class="buttons" type="button">Дизайн</button> </li>
-           <li><button class="buttons" type="button">Маркетинг</button></li>
-</ul> 
-            </section>
-            <section>
-        <ul>
-           <li> <img src="images/img9.jpg" alt="ноутбук">
-            <h2 class="progect-title">Технокряк</h2>
-            <p class="progect-deskription">Веб-сайт</p>
+      </nav>
+      <ul class="contacts-header-list list">
+        <li class="contact-time ">
+          <a class="contact-link hover-color link" href="mailto:info@devstudio.com">info@devstudio.com</a>
+        </li>
+        <li class="contact-time ">
+          <a class="contact-link hover-color link" href="tel:+380961111111">+38 096 111 11 11</a>
+        </li>
+      </ul>
+    </header>
+    <main>
+      <section class="projects">
+        <h1 class="visually-hidden">Проєкти</h1>
+        <ul class="filter-list list">
+          <li class="filter-time ">
+            <button class="filter-baton active" type="button">Усі</button>
+          </li>
+          <li class="filter-time ">
+            <button class="filter-baton hover-bcg-color" type="button">Веб-сайти</button>
+          </li>
+          <li class="filter-time ">
+            <button class="filter-baton hover-bcg-color" type="button">Додатки</button>
+          </li>
+          <li class="filter-time ">
+            <button class="filter-baton hover-bcg-color" type="button">Дизайн</button>
+          </li>
+          <li class="filter-time ">
+            <button class="filter-baton hover-bcg-color" type="button">Маркетинг</button>
+          </li>
+        </ul>
+        <ul class="project-list list">
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img9.jpg" alt="Ноутбук " width="370">
+              <h2 class="project-title">Технокряк</h2>
+              <p class="project-description">Веб-сайт</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img10.jpg" alt="баскетбол" width="370">
+              <h2 class="project-title">Постер New Orlean vs Golden Star</h2>
+              <p class="project-description">Дизайн</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img11.jpg" alt="ресторан" width="370">
+              <h2 class="project-title">Ресторан Seafood</h2>
+              <p class="project-description">Додаток</p>
+            </a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img12.jpg" alt="Наушники" width="370">
+              <h2 class="project-title">Проєкт Prime</h2>
+              <p class="project-description">Маркетинг</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img13.jpg" alt="Дві коробки" width="370">
+              <h2 class="project-title">Проєкт Boxes</h2>
+              <p class="project-description">Додаток</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img14.jpg" alt="Монітор" width="370">
+              <h2 class="project-title">Inspiration has no Borders</h2>
+              <p class="project-description">Веб-сайт</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img15.jpg" alt="Розгорнута книга" width="370">
+              <h2 class="project-title">Видання Limited Edition</h2>
+              <p class="project-description">Дизайн</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img16.jpg" alt="Бірка з логотипом" width="370">
+              <h2 class="project-title">Проєкт LAB</h2>
+              <p class="project-description">Маркетинг</p></a>
+          </li>
+          <li class="project-time ">
+            <a href="" class="link">
+              <img class="project-img" src="./images/img17.jpg" alt="Людина працює за ноутбуком" width="370">
+              <h2 class="project-title">Growing Business</h2>
+              <p class="project-description">Додаток</p></a>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer class="footer">
+        <a class="logo link" href="./index.html" aria-label="Посилання на домашню сторінку"
+          ><span class="current">Web</span><span class="footer-logo">Studio</span></a
+        >
+        <address>
+          <ul class="contacts-footer-list list" id="contacts">
+            <li class="contacts-footer-item">
+              <a class="contacts-footer-link link" href="">м. Київ, пр-т Лесі Українки, 26</a>
             </li>
-            <li> <img src="images/img10.jpg" alt="Постер">
-                <h2 class="progect-title">Постер New Orlean vs Golden Star</h2>
-                <p class="progect-deskription">Дизайн</p>
-                </li>
-                <li> <img src="images/img11.jpg" alt="ресторан">
-                    <h2 class="progect-title">Ресторан Seafood</h2>
-                    <p class="progect-deskription">Додаток</p>
-                    </li>
-                    <li> <img src="images/img12.jpg" alt="маркетинг">
-                        <h2 class="progect-title">Проєкт Prime</h2>
-                        <p class="progect-deskription">Маркетинг</p>
-                        </li>
-                        <li> <img src="images/img13.jpg" alt="додаток">
-                            <h2 class="progect-title">Проєкт Boxes</h2>
-                            <p class="progect-deskription">Додаток</p>
-                            </li>
-                            <li> <img src="images/img14.jpg" alt="Веб-сайт">
-                                <h2 class="progect-title">Inspiration has no Borders</h2>
-                                <p class="progect-deskription">Веб-сайт</p>
-                                </li>
-                                <li> <img src="images/img15.jpg" alt="дизайн">
-                                    <h2 class="progect-title">Видання Limited Edition</h2>
-                                    <p class="progect-deskription">Дизайн</p>
-                                    
-                                    <li> <img src="images/img16.jpg" alt="маркетинг">
-                                        <h2 class="progect-title">Проєкт LAB</h2>
-                                        <p class="progect-deskription">Маркетинг</p>
-                                
-                                        <li> <img src="images/img17.jpg" alt="додаток">
-                                            <h2 class="progect-title">Growing Business</h2>
-                                            <p class="progect-deskription">Додаток</p>
-                                            
-                            </li>
-        </ul>
-    </section>
-        </main>
-  <!--Футер-->
-<footer>
-    <a class="abba" href="./index.html"><span class="acsent">Web</span>Studio</a>
-    <address>
-        <ul>
-            <li><a class="footer1" href=" "> м. Київ, пр-т Лесі Українки, 26 </a></li>
-            <li><a href="mailto:info@devstudio.com" class="footer11">info@devstudio.com</a></li>
-            <li><a href="tel:+380961111111" class="footer11">+38 096 111 11 11</a></li>
-        </ul>
-    </address>
-</footer>
-</body>
-
-</html>
+            <li class="contacts-footer-item">
+              <a
+                class="contacts-footer-link transparent hover-color link"
+                href="mailto:info@devstudio.com"
+                >info@devstudio.com</a
+              >btn
+            </li>
+            <li class="contacts-footer-item">
+              <a class="contacts-footer-link transparent hover-color link" href="tel:+380961111111"
+                >+38 096 111 11 11</a
+              >
+            </li>
+          </ul>
+        </address>
+      </footer>
+    </body>
+  </html>
+  
+</body></html>
