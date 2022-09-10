@@ -36,13 +36,10 @@ body {
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
-  overflow: hidden;
-}
+  overflow: hidden;}
 
 button {
-  cursor: pointer;
-}
-
+  cursor: pointer;}
 /* Логотип */
 .logo {
   color: var(--logo-text-color);
@@ -50,8 +47,7 @@ button {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19;
-}
+  line-height: 1.19;}
 
 .logo:visited {
   color: var(--primary-text-color);
@@ -97,14 +93,12 @@ button {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
-/* кнопка батон*/
+/*секція герой*/
 .hero-baton {
   background-color: var(--accent-color);
   color: var(--white-text-color);
 
-  border-radius: 4px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border: none;
+ 
 
   font-family: inherit;
   font-weight: 700;
@@ -213,5 +207,4 @@ button {
   color: var(--secondary-text-color);
 
   font-size: 16px;
-  line-height: 1.88;
-}
+  line-height: 1.88;}
