@@ -12,8 +12,7 @@
 body {
   background-color: var(--white-text-color);
   color: var(--primary-text-color);
-
-  font-family: Roboto, sans-serif;
+   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
   font-size: 14px;
   line-height: 1.14;
