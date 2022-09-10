@@ -12,7 +12,7 @@
 body {
   background-color: var(--white-text-color);
   color: var(--primary-text-color);
-   font-family: Roboto, sans-serif;
+  font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
   font-size: 14px;
   line-height: 1.14;
@@ -36,10 +36,12 @@ body {
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
-  overflow: hidden;}
+  overflow: hidden;
+}
 
 button {
-  cursor: pointer;}
+  cursor: pointer;
+}
 /* Логотип */
 .logo {
   color: var(--logo-text-color);
@@ -47,7 +49,8 @@ button {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19;}
+  line-height: 1.19;
+}
 
 .logo:visited {
   color: var(--primary-text-color);
@@ -92,13 +95,16 @@ button {
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-}
+border-radius: 4px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border: none; border-radius: 4px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border: none;}
+
 /*секція герой*/
 .hero-baton {
   background-color: var(--accent-color);
   color: var(--white-text-color);
-
- 
 
   font-family: inherit;
   font-weight: 700;
@@ -125,7 +131,6 @@ button {
 
   line-height: 1.71;
 }
-
 
 /* Секція команда */
 .teams {
@@ -170,7 +175,6 @@ button {
   color: rgba(255, 255, 255, 0.6);
 }
 
-
 /* Сторінка Портфоліо */
 .filter-baton {
   background-color: var(--grey-bcg);
@@ -207,4 +211,5 @@ button {
   color: var(--secondary-text-color);
 
   font-size: 16px;
-  line-height: 1.88;}
+  line-height: 1.88;
+}
